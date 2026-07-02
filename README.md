@@ -2,7 +2,7 @@
 
 A reusable framework for running a content operation with AI agents, deterministic automation, and human decision gates.
 
-**→ [View the framework](https://jesscancode.github.io/agentic-content-workflow/agentic-content-system.html)**
+**→ [View the framework](https://jesscancode.github.io/agentic-content-workflow/)**
 
 ## What it is
 
@@ -20,4 +20,4 @@ Served via GitHub Pages from the repo root. In **Settings → Pages**, set the s
 
 ## Local viewing
 
-Open `agentic-content-system.html` directly in a browser — it's self-contained, no build step.
+Open `index.html` directly in a browser — it's self-contained, no build step.
